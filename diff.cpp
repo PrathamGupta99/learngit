@@ -6,7 +6,8 @@ int main()
     int a,b;
     cin>>a>>b;
     int diff = a-b;
-    cout<<a<<b<<diff;
+    cout<<a<<" "<<b<<" ";
+    cout<<diff;
     cout<<endl;
     return 0;
 }
